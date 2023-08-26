@@ -6,7 +6,7 @@ body{
     width: 100;
     height: 100vh;
     overflow: hidden;
-    background-image: url(#);
+    background-image: url();
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -42,7 +42,7 @@ body{
 
 }
 .bubbles{
-    width: 700%;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -99,17 +99,17 @@ body{
 }
 #yu{
     width: 100%;
-    height: 800px;
+    height: 850px;
 }
 @media (max-width:600px) {
     
     
     #yu{
         width: 100%;
-        height: 700px;
+        height: 750px;
         
     }
-      .enter{
+    .enter{
         font-size: 20px;
     }
 }
