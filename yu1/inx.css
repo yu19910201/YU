@@ -99,14 +99,14 @@ body{
 }
 #yu{
     width: 100%;
-    height: 700px;
+    height: 800px;
 }
 @media (max-width:600px) {
     
     
     #yu{
         width: 100%;
-        height: 650px;
+        height: 700px;
         
     }
       .enter{
